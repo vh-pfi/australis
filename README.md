@@ -84,4 +84,4 @@ These are neutral tones between black and bright white for adjusting contrast an
 | ![#9daeb6](https://placehold.co/100/9daeb6/9daeb6) | #9daeb6 | bright 70 |
 | ![#b3cbcf](https://placehold.co/100/b3cbcf/b3cbcf) | #b3cbcf | bright 80 |
 
-Copyright (c) 2024 - Vuong Hoang
+Copyright 2024 Vuong Hoang
