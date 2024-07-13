@@ -29,7 +29,7 @@ These make up the bulk of the color volume for the theme.  These colors can be u
 | #6388D8 | #a4c4ff | #00b1a8 | #42dcd1 | #16B866 | #51e08a
 | Blue | Bright Blue | Cyan | Bright Cyan | Green | Bright Green |
 
-## Dawn - Secondary Colors
+## Dawn - Accent Colors
 
 These should be used sparingly for the theme.
 
