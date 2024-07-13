@@ -38,7 +38,7 @@ These should be used sparingly for the theme.
 | #ff491a | #ff854f | #e1c631 | #FFE14E | #9d78ff | #d8adff
 | Red  | Bright Red | Yellow | Bright Yellow  | Magenta | Bright Magenta |
 
-## Contrast Colors
+## Sea - Neutral Contrast Colors
 
 These are neutral tones between black and bright white for adjusting contrast and for the representation of text on the colors and themes with varying degrees of contrast.  Black, Bright Black, White and Bright White can be substituted for any of the contrast colors to give the desired contrast.  Uses for the darks include low-contrast elements like comments.  As with all neutral tones in the theme, green tint is progressively increased with brightness.
 
