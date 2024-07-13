@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/6aef8556-07d0-4426-bcbe-509734df83ed" alt="AustralisLogo" width="200" />
+
 # Australis Dark Color Theme
 
 The Australis Dark color theme is inspired by the Southern Lights: The Aurora Australis
